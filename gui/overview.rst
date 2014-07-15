@@ -1,5 +1,5 @@
-Overview
-========
+Overview of GUI Editor
+======================
 
 "GUI" stands for Graphical User Interface. It is the summation of all the controls (windows, buttons, text fields, etc.) that are used to interact with a game and its settings. Most interfaces in games consist of buttons to launch or join a game session, editing devices to change user preferences, options to change screen resolutions and rendering options, and elements which display game data to the user as they are playing.
 

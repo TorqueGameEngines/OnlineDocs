@@ -1,5 +1,5 @@
-Interface
-=========
+GUI Editor Interface
+====================
 
 The main GUI Editor view consists of 5 primary sections:
 

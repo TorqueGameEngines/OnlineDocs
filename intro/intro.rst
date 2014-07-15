@@ -1,4 +1,4 @@
-What Is Torque 3D?
+What is Torque 3D?
 ==================
 
 Torque 3D was created by GarageGames to make the development of games easier, faster, and more affordable. It is a professional Software Development Kit ("SDK") that will save you the effort required to build a rendering system, high speed multiplayer networking, real time editors, a scripting system, and much more.

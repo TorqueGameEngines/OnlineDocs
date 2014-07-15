@@ -1,4 +1,4 @@
-Setup
-=====
+Seting up the SDK
+=================
 
 *TBD*

@@ -5,18 +5,62 @@ Torque 3D is a large piece of software. Chances are that most of the application
 
 The documentation is divided into multiple sections, each of which contains information related to specific subject. This means of organization allows you to jump to different chapters containing information that is pertinent to what you wish to work on.
 
-Contents
---------
+Introduction
+------------
 
 .. toctree::
-	:maxdepth: 2
+	:maxdepth: 1
 
-	intro/index
-	world/index
-	gui/index
-	artist/index
-	script/index
-	engine/index
+	intro/intro
+	intro/setup
+	intro/projectmanager
+	intro/sdktour
+
+World Editor
+------------
+
+.. toctree::
+	:maxdepth: 1
+
+	world/overview
+	world/interface
+	world/levelobjects
+	world/editors
+	
+GUI Editor
+----------
+
+.. toctree::
+	:maxdepth: 1
+
+	gui/overview
+	gui/interface
+
+Artists Guide
+-------------
+
+.. toctree::
+	:maxdepth: 1
+
+	artist/overview
+	artist/characters
+	artist/fileformats
+
+Scripting
+---------
+
+.. toctree::
+	:maxdepth: 1
+
+
+	script/intro
+	script/languageref
+	script/consoleref
+	script/tutorials
+
+Engine
+------
+
 
 License
 -------

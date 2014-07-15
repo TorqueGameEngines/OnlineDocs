@@ -1,5 +1,5 @@
-Interface
-=========
+World Editor Interface
+======================
 
 The default World Editor view consists of five main sections:
 

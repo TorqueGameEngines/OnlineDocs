@@ -1,4 +1,4 @@
-SDK Tour
-========
+A Tour of the SDK
+=================
 
 *TBD*

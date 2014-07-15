@@ -1,5 +1,5 @@
-Overview
-========
+Overview of World Editor
+========================
 
 The World Editor is used to build and edit game levels. This includes adding and modifying terrains, buildings, foliage, cloud layers, vehicles, environmental effects, lighting effects, and much more. Aside from the Toolbox, the World Editor is the first (and most important) tool a new user should learn.
 
