@@ -83,8 +83,3 @@ The following is a general list of knowledge you should keep in mind while editi
 * **Play your level regularly.** After you reach a major milestone, try actually doing the things in your level as a player would. There is a big difference between the experience of a player in a game and that of a designer with a free-floating camera in the World Editor.
 * **Do not forget to optimize.** Some specific World Editor objects are more appropriate than others. Use Ground Cover instead of a 3D model with lots of grass or trees attached. As much as possible, use the Sun rather than numerous point lights to handle ambient lighting. There are other such optimizations which will become apparent towards the end of development.
 * **SAVE AND SAVE OFTEN.** This cannot be stressed enough. Computers crash, power goes out, cats jump on keyboards, and in rare circumstances you may encounter a yet undiscovered issue which causes data corruption. Any number of accidents can result in hours of work being lost. We recommend you save as often as you can.
-
-Conclusion
-----------
-
-Now that you know the purpose of the World Editor, and how to access it, we can move on to learning how to use it. Before you start placing objects or creating levels, you should learn the interface. Continue on to the World Editor :doc:`interface`.

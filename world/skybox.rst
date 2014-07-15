@@ -54,10 +54,3 @@ drawBottom
 
 fogBandHeight
 	TypeF32. The height (0-1) of the fog band from the horizon to the top of the SkyBox.
-
-Conclusion
-----------
-
-The Sky Box is one of the first objects you should create and add to your level. Not only does it set the mood of your level, but it also gives you a frame of reference while editing. Trying to move around a three dimensional world without a sky or terrain can be disorienting.
-
-If you wish to learn more about the Skybox, you can read through the Creating A Sky Tutorial which contains a walkthrough of creating a sun, sky, and clouds for your level.

@@ -439,8 +439,3 @@ The Shape Editor TSShapeConstructor object may also be accessed directly from th
 * Set ground transform information (not yet available in Shape Editor UI)::
 
 	ShapeEditor.shape.setSequenceGroundSpeed("run", "0 4 0", "0 0 0");
-
-Conclusion
-----------
-
-This document has provided an overview of the shape editor's functionality. This editor is developed with artists in mind, allowing them to make in-engine changes.

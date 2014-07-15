@@ -101,8 +101,3 @@ The last portion of the interface is how controls are selected. The following im
 In the above image, I have selected the list box control that shows the display driver for a video card. The current selection is marked by six boxes surrounding the corners of the control, and several subtle lines. However, you should notice there is a large blue box surrounding multiple controls.
 
 The large blue box shows the Parent control. When a control is the "parent", it can contain multiple sub-controls. The "children" controls will now adhere to the same behaviors as the parent control. For example, if the parent control is set to invisible, the children controls will become invisible as well. If the parent is moved, all the children controls will move with it.
-
-Conclusion
-----------
-
-The purpose of this article was to walk you through the GUI Editor's interface. The terms you learned will be used throughout the rest of the documentation, and you should memorize the locations of the tools, menus, and dialogs. More specific details will be explained in the individual tools documentation.

@@ -98,8 +98,3 @@ Render Priority
 .. image:: decalroadeditor/RoadDecal_TL.jpg
 
 .. image:: decalroadeditor/RoadDecal_BA.jpg
-
-Conclusion
-----------
-
-In this article we have explored the decal-based Road and Path system for Torque 3D. You will now be able to expand your projects road construction with dirt trails and small lanes, creating them as you see fit, with full control over their layout.

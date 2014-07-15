@@ -86,8 +86,3 @@ Open game/scripts/client/init.cs and locate the initClient() function. At the en
 	exec("./Output.cs");
 
 Run your game, then open the console by pressing tilde (~). Look for the long string of asterisks (*****), and you will find your echo statements. Note: you may need to scroll up to find the echo statements.
-
-Conclusion
-----------
-
-Use echo(...), warn(...), and error(...) as often as you can. They can be very helpful when debugging your scripts. The rest of the TorqueScript documentation will use these functions to demonstrate functionality and give you cues on how things are being run.

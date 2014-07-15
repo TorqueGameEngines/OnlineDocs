@@ -42,8 +42,3 @@ You would not have much of a game without models, textures, and other art assets
 From the COLLADA website: "COLLADA is a COLLAborative Design Activity for establishing an open standard digital asset schema for interactive 3D applications." In-other-words, it is a 3D model file format supported by most major art applications used to make content for games. You can create a model in 3D Studio Max, Maya, Blender, or any other 3D editor that supports the COLLADA format.
 
 For those of you familiar with previous Torque engines, you can still import DTS (static models) and DSQ (animation data) files for your 3D objects. This includes static shapes, players, buildings, and props. If you already have a library of DTS and DSQs, feel free to use them in Torque 3D. From this point on, we recommend you transition to the COLLADA open standard for new art assets.
-
-Conclusion
-----------
-
-Now that you have read though this article, you are familiar with some of the most important aspects of Torque 3D. As you familiarize yourself with Torque 3D, you may also want to take a look at the various Torque `add-ons <http://www.garagegames.com/products/browse>`_ and `community resources <http://www.garagegames.com/community/resources>`_ available on our site.

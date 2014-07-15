@@ -125,8 +125,3 @@ Width Subdivisions
 .. image:: meshroadeditor/RoadmeshTexL.jpg
 
 .. image:: meshroadeditor/RoadmeshBa.jpg
-
-Conclusion
-----------
-
-In this article we covered the use of the Mesh Road Editor and its tool set for constructing a mesh based road for your projects. With practice and a bit of creativity you can create many types of roads, bridges, and railway tracks.

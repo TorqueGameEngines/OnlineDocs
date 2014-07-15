@@ -242,10 +242,3 @@ lightMapSize
 
 screenError
 	TypeS32. Not yet implemented.
-
-Conclusion
-----------
-
-This article showed you the three methods available to add a Terrain Block to your level: creating a blank terrain, adding an existing .ter file, and importing a heightmap. Regardless of which method you use to add the Terrain Block to a level, you can continue to adjust it using the Terrain Editor and Terrain Painter tools.
-
-Additionally, the system allows you to add multiple Terrain Blocks to the same level. This can provide you with a number of opportunities to create massive levels while retaining rendering quality and details. If you wish to learn more about terrains, you can read the Building Terrains Tutorial, which contains more information on importing a terrain.

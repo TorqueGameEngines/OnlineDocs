@@ -280,8 +280,3 @@ Restore Terrain Tool
 The Restore Terrain tool complements the Clear Terrain tool. It will restore the mesh data for the terrain. That way, you can have better control over the transition between your models and terrains. If you select the Restore Terrain button and then left-click on the previously cleared area, you will see it restore the terrain to its previous state.
 
 .. image:: terraineditor/ClearTerrainStep2.jpg
-
-Conclusion
-----------
-
-In this article, you learned how to use the Terrain Editor. The power of this tool allows you to make broad, sweeping changes to your terrain or tiny detail adjustments to get it "just right."

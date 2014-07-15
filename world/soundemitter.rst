@@ -12,8 +12,3 @@ Sound Emitter Properties
 ------------------------
 
 *TODO*
-
-Conclusion
-----------
-
-*TODO*

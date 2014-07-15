@@ -30,8 +30,3 @@ Multiple controls which can be combined to make up a single interface. Each cont
 Once the above GUI is active in your interface, it will display the following:
 
 .. image:: images/swarmer.png
-
-Conclusion
-----------
-
-As previously mentioned, the game interface is critical to its success. The GUI Editor is a powerful tool you should become familiar with early in your development. Before you begin experimenting, you should continue reading and learn about the GUI Editor *Interface.*

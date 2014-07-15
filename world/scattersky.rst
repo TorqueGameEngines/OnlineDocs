@@ -294,8 +294,3 @@ You can see how this property functions by adjusting the value. Increase the bri
 Notice how your atmosphere (sky and sun) did not change. Every other object in your scene should be better lit. You can remove the additional brightness by setting the value of the property to 0. The result is the additional, global brightness factor has been completely removed. Your lighting should now be minimal, and your shadows nearly invisible.
 
 .. image:: scattersky/0BrightnessScene.jpg
-
-Conclusion
-----------
-
-In previous guides, you learned how to add an individual Sun and Skybox. The Scatter Sky is a more advanced object intended to simulate a nearly complete atmosphere. To fully simulate a realistic atmosphere, you can use the Scatter Sky object in conjunction with the available cloud layer objects. There are two cloud layer objects which you can use: Basic and Advanced.

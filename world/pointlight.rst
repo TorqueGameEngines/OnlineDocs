@@ -12,8 +12,3 @@ Point Light Properties
 ----------------------
 
 *TODO*
-
-Conclusion
-----------
-
-*TODO*

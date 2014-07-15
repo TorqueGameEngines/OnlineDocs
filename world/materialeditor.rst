@@ -267,8 +267,3 @@ Repeat the process to add your Normal map. Click on the preview or edit button i
 .. image:: materialeditor/NormalAdded.jpg
 
 If you open the Material Selector again, you will notice your new material has been saved in the list. This material is now available to be assigned to any other meshes within the project without having to go through the whole process of redefining it again.
-
-Conclusion
-----------
-
-This article covered the basics of using Torque 3D's powerful Material Editor. As with any other editing tool, remember to save and save often. Take some time to experiment with existing materials provided in our demos, or work with your own materials to get a feel for the the utility.

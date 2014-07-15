@@ -12,8 +12,3 @@ Lightning Properties
 --------------------
 
 *TODO*
-
-Conclusion
-----------
-
-*TODO*

@@ -54,8 +54,3 @@ If you no longer need a datablock you can easily delete it by selecting the Dele
 .. image:: datablockeditor/Data_dal1.jpg
 
 After pressing this icon you will get a notification window stating that the datablock has been removed. The World Builder will need to be restarted to completely remove the file.
-
-Conclusion
-----------
-
-This article has covered the Datablock Editor and how it can be used to speed up your project development by adjusting object properties from within the Torque 3D World Editor. You can now make in-game adjustments on-the-fly without resorting to scripting.

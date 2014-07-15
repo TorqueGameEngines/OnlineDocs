@@ -375,8 +375,3 @@ There are most likely more optimized ways to check for this kind of situation, b
 Remember, the checkForWin() functions returns a true if the game has been won. The first portion of the code prints a message about the victory. After that, the board is printed to show what row won, and then resets the game.
 
 While this version of the game is very rudimentary, you should be able to expand it by checking for columns and diagonals. There is plenty of room for optimization and more functions to make the game easier. However, this is not necessary to learning a powerful game engine like Torque 3D.
-
-Conclusion
-----------
-
-This guide covered the concept of arrays, both single and multi-dimensional. Lessons from past guides were also used: string comparisons, logical operators, function declaration and calling, loop structures, etc.

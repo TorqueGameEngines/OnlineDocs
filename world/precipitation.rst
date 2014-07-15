@@ -168,8 +168,3 @@ Game
 
 dataBlock
 	TypeGameBaseData. Script datablock used for game objects.
-
-Conclusion
-----------
-
-Of all the objects you can add to a level, Precipitation has the widest range of applications. Remember, this object is not limited to rain. Anything that can fall from the sky or float in the air over large areas can be simulated with Precipitation: snow, sandstorms, falling ash and rock, fireflies, and so on. Take the time to experiment with this to see what you can come up with.

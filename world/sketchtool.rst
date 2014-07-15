@@ -112,10 +112,3 @@ The new copy of the objects will now be the current selection and they can be mo
 .. image:: sketchtool/STHouse.jpg
 
 Once you get the hang of the Sketch Tool, you can sculpt unique and complex shapes. Entire levels can be prototyped to use placeholder art, created right inside Torque 3D, while you or your artists work on the final assets using the tools that they are familiar with.
-
-Conclusion
-----------
-
-Unless your game is specifically designed to make use of rough, convex shapes, your main interaction with the Sketch Tool will be limited to rapidly prototyping meshes within Torque 3D. It is absolutely possible to create more advanced structures with time, but this goes outside of the tool's focus.
-
-Take time to experiment with the Sketch Tool. Find an image of a structure you wish to recreate, such as a house or bunker. Try sculpting the object in Torque 3D to see how close you can get to the original image. From there you can then import that into a modeling application such as Maya or 3DS Max. You may find this flow is actually very useful for content creation.

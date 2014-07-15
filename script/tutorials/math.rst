@@ -197,9 +197,3 @@ The first two calls will prove the comparison as "true", and print out the messa
 	}
 
 I have added "decorator text" to help separate console output and make the output easier to read. Notice that each operation uses an if(...) statement to compare. Remember, the if(...) code is based on checking for a 1 (true) or 0 (false) value. This is all a comparison operation will return.
-
-Conclusion
-----------
-
-The guide covers the basic arithmetic operators you will use in TorqueScript. For now, read back over the script code you have been provided with. Study the comments and echo(...) commands, and feel free to test out new operators.
-

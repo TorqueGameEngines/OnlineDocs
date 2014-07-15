@@ -197,8 +197,3 @@ Just like the switch statement used in the checkAmmoCount(...) function, the abo
 In the above example, the case statements are comparing the test (%userName) against string literals. String literals are raw text displayed in code between quotations. If you have variables that contain a string value to test against, you can use those instead.
 
 As with a numerical switch statement, you can write your logic in between the case statements.
-
-Conclusion
-----------
-
-This guide covered the basics of the switch and switch$ statement structures. When you need to perform one or two logical checks, you will use the basic control statements such as if(...), if else(...), and else. When you need a complex control statement handling multiple outcomes based on a value, try using a switch statement instead.

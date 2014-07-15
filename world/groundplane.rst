@@ -140,8 +140,3 @@ Select a material then click the Select button. Your GroundPlane will automatica
 .. image:: groundplane/NewMaterialAdded1.jpg
 
 That is the extent of your control over the material displayed on a GroundPlane. If you are using an extremely large texture, you could increase the squareSize and UV scale to make the tiling less blatant.
-
-Conclusion
-----------
-
-In this article, we covered the creation of a Ground Plane and how to modify it to work for your level. Remember that while it is useful for prototypes and very niche games, you will want to consider using Terrain Block objects as a final solution for your ground.

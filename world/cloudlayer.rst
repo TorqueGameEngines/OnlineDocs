@@ -163,10 +163,3 @@ Unfortunately, static images cannot properly show how the remaining fields affec
 The texDirection property takes two values, separated by a space: "X Y". Each value corresponds to the axis a texture should scroll on as well as the direction of movement on that axis. The range of each value is -1.0 to 1.0. For example, a value of "1 0" will scroll the texture directly along the X axis in the positive direction with no movement along the Y axis.
 
 Two properties control how fast the cloud layer moves: texSpeed and windSpeed. The windSpeed property is a global modifier, whereas texSpeed will affect a single layer. The two are added to each other to determine a layer's final speed. If either is set to 0, the cloud layer will not move. The higher the number, the faster your cloud texture will scroll across the sky.
-
-Conclusion
-----------
-
-In a previous guide, you learned how to add a Basic Clouds object to a level utilizing three simple textures. The Cloud Layer object is intended to simulate a random atmosphere. To more realistically simulate an atmosphere, you can use the Scatter Sky object in conjunction with either cloud layer object.
-
-Choosing between the Cloud Layer object and Basic Cloud object is completely up to you. The decision can come down to optimization or aesthetics, based on your level.

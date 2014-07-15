@@ -12,8 +12,3 @@ Spot Light Properties
 ---------------------
 
 *TODO*
-
-Conclusion
-----------
-
-*TODO*

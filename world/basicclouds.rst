@@ -131,10 +131,3 @@ The texDirection property takes two values, separated by a space: "X Y". Each va
 A single property, texSpeed, controls how fast the cloud layer moves. If the property is set to 0, the cloud layer will not move. The higher the number, the faster your cloud texture will scroll across the sky.
 
 With the texOffset property you can displace how the multiple textures line up or overlap with each based upon whatever looks visually best. For example, at the seam where the texture repeats, you might want that to be on the horizon rather than directly overhead. Adjusting the texOffset helps you visually adjust this. If you have a grasp of UV animation, this will come naturally.
-
-Conclusion
-----------
-
-In previous guides, you learned how to add different sky and sun objects. Regardless of your choice, a successful simulation of an atmosphere will be enhanced by the presence of clouds. This guide's intention was to introduce you to the Basic Clouds object.
- 
-You can read through the Creating A Sky Tutorial which contains a full walkthrough of creating a sun, sky, and clouds for your level.

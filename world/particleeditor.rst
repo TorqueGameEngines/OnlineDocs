@@ -221,8 +221,3 @@ Size 1-4
 
 Time 1-4
 	Each slider sets the time for that stage.
-
-Conclusion
-----------
-
-This article covered the Torque 3D particle system and its many properties. You should now have a basic understanding of Emitters, Particles, and their parameters. By experimenting with the settings and trying different particle images, you will gain valuable knowledge ready for use in your own future projects. You will soon be creating your own special effects from water drops to rocket trails with Torque 3D's Particle Effects Editor.

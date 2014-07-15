@@ -379,8 +379,3 @@ canSaveDynamicField
 
 persistentID
 	Unique ID of this object.
-
-Conclusion
-----------
-
-In this article we covered how to use the Torque 3D River Editor to create a river and a small body of water, as well as reviewed the properties of a river object and how affect it. With time and care you can create some very satisfying rivers, and best of all, you can make your player character interact with them. Try entering the river with the main character in third person mode, he will now have buoyancy and be able to swim.

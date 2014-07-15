@@ -173,8 +173,3 @@ Dynamic Fields
 ~~~~~~~~~~~~~~
 
 N/A - None by default.
-
-Conclusion
-----------
-
-Importing meshes into your level is a relatively simple process and is further aided by supporting a dynamic update process.

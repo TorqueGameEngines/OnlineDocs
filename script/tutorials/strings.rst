@@ -175,8 +175,3 @@ In this check, if the two strings are NOT the same, then the new value assignmen
 	  echo("Battle cry is identical. Doing nothing");
 	else
 	  $BattleCry = %battleCry;
-
-Conclusion
-----------
-
-This guide covered the most popular operators used for string manipulation: concatenate (@), assignment (=), string equality ($=), and string inequality (!$=). Outside of simply printing to the console, during development you will be manipulating strings that directly affect game play, interface messages, and the saving of important data.

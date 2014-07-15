@@ -50,10 +50,3 @@ After you click the Select button, the Ground Cover will stop placing billboards
 If you are having a difficult seeing this change, locate the maxElements field and increase the value dramatically:
 
 .. image:: groundcover/GCIncreaseCount.jpg
-
-Conclusion
-----------
-
-The Ground Cover object can add an immense amount of ambience to your level. It is one of the most powerful and flexible Torque 3D objects, so you should definitely take the time to continue experimenting with it. Try different types of settings, art, and level arrangements.
-
-Read through the Adding Foliage Tutorial for a full walkthrough on using Ground Cover to create multiple types of foliage.

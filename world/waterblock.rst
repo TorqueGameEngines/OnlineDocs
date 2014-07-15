@@ -248,10 +248,3 @@ canSave
 
 canSaveDynamicFields
 	TypeBool. True if dynamic fields (added at runtime) should be saved, defaults to true.
-
-Conclusion
-----------
-
-Regarding appearance, your Water Block can simulate any body of water you desire. Large or small, murky or clear, wavy or calm, the properties provide an extremely flexible system that can be tweaked to the smallest detail.
-
-You can read the Lake Tutorial for a full walkthrough on using the Water Block object.

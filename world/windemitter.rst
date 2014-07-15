@@ -12,8 +12,3 @@ Wind Emitter Properties
 -----------------------
 
 *TODO*
-
-Conclusion
-----------
-
-*TODO*

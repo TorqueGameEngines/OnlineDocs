@@ -12,8 +12,3 @@ Particle Emitter Properties
 ---------------------------
 
 *TODO*
-
-Conclusion
-----------
-
-*TODO*

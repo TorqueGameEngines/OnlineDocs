@@ -249,10 +249,3 @@ canSave
 
 canSaveDynamicFields
 	TypeBool. True if dynamic fields (added at runtime) should be saved, defaults to true.
-
-Conclusion
-----------
-
-The relationship between Water Block and Water Plane is simple. Both are similar objects with the same properties. However, Water Blocks are for isolated bodies of water anda Water Plane is for an endless ocean.
-
-For a full walkthrough, read the Lake Tutorial to learn how the Water Block and Water Plane properties affect appearance as the properties are the same.

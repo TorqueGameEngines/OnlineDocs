@@ -135,8 +135,3 @@ Clipping Angle
 	The angle in degrees used to display geometry that faces away from the decal projection direction.
 
 .. image:: decaleditor/Decal_RC.jpg
-
-Conclusion
-----------
-
-This article covered the Decal Editor and how to use its features. With planning and a good set of materials, you can add variety to any scene by breaking up repeating textures with interesting ground cover such as leaves, adding litter to city pavements or even breaking up a wall with a bit of graffiti. Not only this, you now have full control over the parameters of any dynamically added decals such as weapon damage marks and bullet holes.

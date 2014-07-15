@@ -143,8 +143,3 @@ If you were to drop down to the player's camera view, you can see where the two 
 .. image:: terrainpainter/PathCloseup.jpg
 
 Take the time to experiment with different brush sizes and shapes to see what kind of patterns you can come up with. When you are ready, read on to learn how to add a new TerrainMaterial with higher quality and detail.
-
-Conclusion
-----------
-
-This article walked you through the Terrain Painter's interface, typical usage, and TerrainMaterial system. Use in conjunction with the Terrain Editor, you can fabricate some amazing and realistic terrain for your game. Remember to save your work often and do not be afraid to experiment first.

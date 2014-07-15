@@ -445,8 +445,3 @@ While using the Rotation Tool, the orientation gizmo will be rendered. This gizm
 .. image:: interface/RotateGizmo.jpg
 
 Dragging the red circle in a direction will rotate the object along the X-Axis. Green rotates around the Y-Axis. Blue rotates around the Z-axis. The off color circles allow you to rotate an object along multiple axes.
-
-Conclusion
-----------
-
-The purpose of this article is to walk you through the World Editor's interface. The terms learned will be used throughout the rest of the documentation. More details will be explained in the documentation for each individual tool.

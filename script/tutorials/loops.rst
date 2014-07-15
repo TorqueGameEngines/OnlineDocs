@@ -373,12 +373,3 @@ Your console output will be color-coded. The main loop output should still be te
 #. Go back to step 3, repeat until first loop ends
 
 Based on the default values, the nested loop will execute 10 times. Its iterator will reset each time the first loop iterates. Try adjusting the %firstCount and %secondCount variables to see the varying outputs if you are still trying to understand the concept.
-
-Conclusion
-----------
-
-This guide covered the basics of looping structures. You will use these often when you need to accomplish repetitive tasks or iterate through lists. Remember the following:
-
-* If you perform a task more than twice, you might want to use a loop
-* Be smart when naming your iterators and other variables
-* Always perform safety checks for infinite loops

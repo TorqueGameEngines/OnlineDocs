@@ -148,10 +148,3 @@ Now, you can set your game variables to whatever you wish through a single funct
 	printGameInformation();
 
 We will get into creating member functions in a later section of the script documentation. For now, you should know enough about functions to move on.
-
-Conclusion
-----------
-
-A large portion of your Torque 3D development will occur in TorqueScript. 90% of that will be writing functions to handle your game play and other logic. With TorqueScript, it is easy to create and use functions without having to recompile the engine.
-
-The information you learned in this doc will be used throughout the rest of the documentation, so make sure you are comfortable in your knowledge of functions. Continue reading to learn more advanced logic and math operators.

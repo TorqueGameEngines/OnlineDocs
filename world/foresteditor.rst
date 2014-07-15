@@ -122,8 +122,3 @@ If you need to delete entire sections of a forest, you may not want to delete ea
 .. image:: foresteditor/FEEraseBrush.jpg
 
 Left click your mouse and drag the brush over a section of trees. Any trees under your brush will be removed from the forest object. This is much faster than deleting individual trees. If you want to remove a larger amount of trees such as clearing an area for a road, you can set the width of the brush to a specific width. Locate the Size dropdown on the Tool Settings bar and click on it. A slider will appear so you can increase the circumference of your brush. Set it to something fairly large, like 20.
-
-Conclusion
-----------
-
-The purpose of this guide was to walk you through the Forest Editor's interface and typical usage. Used in conjunction with the Terrain Editor and Terrain Painter, you can fabricate some amazing and realistic environments for your game.

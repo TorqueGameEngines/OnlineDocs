@@ -1,7 +1,7 @@
 Basic Sun
 =========
 
-The Sun object is used to control the global lighting settings in the level. The main settings include ambient coloring, azimuth, and elevation. The lighting effects produced by the Sun are 100% dynamic, which means as soon as you change a setting it is immediately reflected in the level. In short, the Sun lets you control the day/night cycle of your level.
+Proper global lighting can dramatically change the appearance of a level, as well as aid in certain game play aspects, such as providing a day and night cycle. The Sun object is used to control the global lighting settings in the level. The main settings include ambient coloring, azimuth, and elevation. The lighting effects produced by the Sun are 100% dynamic, which means as soon as you change a setting it is immediately reflected in the level. In short, the Sun lets you control the day/night cycle of your level.
 
 Adding a Basic Sun
 ------------------
@@ -224,10 +224,3 @@ In addition to creating shadows, the light from the Sun will also affect the col
 The value of the color field will shade all surfaces that are in direct contact with the sunlight. A completely black color will make it seem like there is no light at all. Using the color picker to choose an orange hue will result in a sunset appearance for your level.
 
 Ambient light is the available light in a space, whether from natural or mechanical sources. It is applied to everything in the world and also contributes to the direct lighting of the sun. The ambient field will lighten dark shadows and brighten well lit surfaces based on the color value.
-
-Conclusion
-----------
-
-In this article, we covered how to create a new Sun, how the various attributes affect your scene, and how to use azimuth and elevation concurrently.
-
-Proper global lighting can dramatically change the appearance of a level, as well as aid in certain game play aspects, such as providing a day and night cycle. You should continue to experiment with the settings and see what lighting effects you can create including simulating different times of the day.
