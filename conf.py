@@ -234,8 +234,8 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'Torque3D', u'Torque 3D Documentation',
-   u'GarageGames, LLC', 'Torque3D', 'One line description of project.',
-   'Miscellaneous'),
+   u'GarageGames, LLC', 'Torque3D', 'Documentation of Torque 3D game engine.',
+   'Game engine'),
 ]
 
 # Documents to append as an appendix to all manuals.
