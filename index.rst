@@ -43,8 +43,7 @@ Artists Guide
 	:maxdepth: 1
 
 	artist/overview
-	artist/characters
-	artist/fileformats
+	artist/playercharacter
 
 Scripting
 ---------
