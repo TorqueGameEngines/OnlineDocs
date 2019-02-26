@@ -1,64 +1,95 @@
 Torque 3D
 =========
 
+**Welcome**
+
 Torque 3D is a large piece of software. Chances are that most of the applications you have worked on up to this point have only been a fraction of the size of this SDK. This reference manual exists for the sole purpose of giving you, the user, a strong foundation to rely on while learning the engine.
 
 The documentation is divided into multiple sections, each of which contains information related to specific subject. This means of organization allows you to jump to different chapters containing information that is pertinent to what you wish to work on.
 
-Introduction
-------------
+* :ref:`introduction-index`
+* :ref:`setup-index`
+* :ref:`world-editor-index`
+* :ref:`gui-editor-index`
+* :ref:`artist-guide-index`
+* :ref:`scripting-index`
+* :ref:`engine-index`
+
+.. _introduction-index:
 
 .. toctree::
-	:maxdepth: 1
+   :maxdepth: 1
+   :caption: Introduction
 
-	intro/intro
-	intro/setup
-	intro/projectmanager
-	intro/sdktour
-
-World Editor
-------------
-
-.. toctree::
-	:maxdepth: 1
-
-	world/overview
-	world/interface
-	world/levelobjects
-	world/editors
-	
-GUI Editor
-----------
+   intro/intro
+   intro/sdktour
+   intro/features
+   intro/toolbox
+   intro/webpub
+    
+.. _setup-index:
 
 .. toctree::
-	:maxdepth: 1
+   :maxdepth: 1
+   :caption: Setup
 
-	gui/overview
-	gui/interface
+   setup/overw
+   setup/downloads
+   setup/directxsdk
+   setup/insvs2015
+   setup/setupvs2015
+   setup/firstproj
 
-Artists Guide
--------------
-
-.. toctree::
-	:maxdepth: 1
-
-	artist/overview
-	artist/playercharacter
-
-Scripting
----------
+.. _world-editor-index:
 
 .. toctree::
-	:maxdepth: 1
+   :maxdepth: 1
+   :caption: World Editor
+   
+   world/basics
+   world/addingobjects
+   world/editors
+   world/tutorials
 
+.. _gui-editor-index:
 
-	script/intro
-	script/languageref
-	script/consoleref
-	script/tutorials
+.. toctree::
+   :maxdepth: 1
+   :caption: Gui Editor
+   
+   gui/overview
+   gui/tutorials
 
-Engine
-------
+.. _artist-guide-index:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Artist Guide
+    
+   artist/primer
+   artist/formats
+   artist/exporters
+   artist/tutorials
+
+.. _scripting-index:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Scripting
+    
+   script/overview
+   script/simple
+   script/advanced
+ 
+.. _engine-index:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Engine
+    
+   engine/audio
+   engine/lighting
+   engine/rendering
 
 
 License
