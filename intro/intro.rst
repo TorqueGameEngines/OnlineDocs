@@ -1,4 +1,4 @@
-What is Torque 3D?
+What is Torque3D?
 ********************
 
 What is Torque 3D?
@@ -18,7 +18,7 @@ System Requirements
 * Linux Tested on Ubuntu 16.04, 18.04
 * Processor: 1.6 GHz Processor or better
 * Memory: Win7+ 2GB RAM
-* DirectX®: 11, Shader 3.0 supported
+* DirectXï¿½: 11, Shader 3.0 supported
 * OpenGL: 3.x + ARB Extensions/4.1 Core
 * Min GPU: Nvidia 500 series or better, AMD Radeon 5000 series or better, Intel HD Graphics 4000 or better
 
