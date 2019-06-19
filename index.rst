@@ -7,7 +7,7 @@ Torque 3D is a large piece of software. Chances are that most of the application
 
 The documentation is divided into multiple sections, each of which contains information related to specific subject. This means of organization allows you to jump to different chapters containing information that is pertinent to what you wish to work on.
 
-* :ref:`introduction-index`
+* :ref:`introductionnn-index`
 * :ref:`setup-index`
 * :ref:`world-editor-index`
 * :ref:`gui-editor-index`
@@ -15,11 +15,11 @@ The documentation is divided into multiple sections, each of which contains info
 * :ref:`scripting-index`
 * :ref:`engine-index`
 
-.. _introduction-index:
+.. _introductionnn-index:
 
 .. toctree::
    :maxdepth: 1
-   :caption: Introduction
+   :caption: Working with Torque3D
 
    intro/intro
    intro/sdktour
