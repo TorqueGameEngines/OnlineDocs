@@ -70,6 +70,7 @@ The documentation is divided into multiple sections, each of which contains info
    artist/formats
    artist/exporters
    artist/tutorials
+   importing/assets
 
 .. _scripting-index:
 
