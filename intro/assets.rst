@@ -11,22 +11,22 @@ can quickly parse them by group. Modules are defined via a module definition fil
 
 For example, we have here TestModule.module:
 
-.. note::
+.. code-block:: rst
 
-    <ModuleDefinition
-|        ModuleId="TestModule"
-|        VersionId="1"
-|        Description="A test module"
-        ScriptFile="TestModule.cs"
-        CreateFunction="create"
-        DestroyFunction="destroy"
-        Group="Game">
-        <DeclaredAssets
-            canSave="true"
-            canSaveDynamicFields="true"
-            Extension="asset.taml"
-            Recurse="true" />
-    </ModuleDefinition>
+  <ModuleDefinition
+    ModuleId="TestModule"
+    VersionId="1"
+    Description="A test module"
+    ScriptFile="TestModule.cs"
+    CreateFunction="create"
+    DestroyFunction="destroy"
+    Group="Game">
+    <DeclaredAssets
+      canSave="true"
+      canSaveDynamicFields="true"
+      Extension="asset.taml"
+      Recurse="true" />
+  </ModuleDefinition>
 
 The primary parameters to focus on would be:
 
