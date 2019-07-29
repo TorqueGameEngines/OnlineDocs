@@ -11,7 +11,7 @@ can quickly parse them by group. Modules are defined via a module definition fil
 
 For example, we have here TestModule.module:
 
-.. code-block:: rst
+.. code-block:: xml
 
   <ModuleDefinition
     ModuleId="TestModule"
