@@ -11,7 +11,7 @@ can quickly parse them by group. Modules are defined via a module definition fil
 
 For example, we have here TestModule.module:
 
-.. code:: xml
+.. code-block:: xml
     <ModuleDefinition
         ModuleId="TestModule"
         VersionId="1"
@@ -28,9 +28,10 @@ For example, we have here TestModule.module:
     </ModuleDefinition>
 
 The primary parameters to focus on would be:
-* ModuleId: The name of the module when searching and utilizing assets
-* ScriptFile: Companion script file that can be utilized for extra loading/unloading management behavior
-* CreateFunction: Function called in companion script file upon module being created
-* DestroyFunction: Function called in companion script file upon module being destroyed
-* Group: What group this module is part of. Largely utilized for selectively loading sets of modules like 'Core', 'Game' or 'Tools'
-* DeclaredAssets: Subelement that defines the file extension to automatically parse upon load to register assets to this module
+
+  * ModuleId: The name of the module when searching and utilizing assets
+  * ScriptFile: Companion script file that can be utilized for extra loading/unloading management behavior
+  * CreateFunction: Function called in companion script file upon module being created
+  * DestroyFunction: Function called in companion script file upon module being destroyed
+  * Group: What group this module is part of. Largely utilized for selectively loading sets of modules like 'Core', 'Game' or 'Tools'
+  * DeclaredAssets: Subelement that defines the file extension to automatically parse upon load to register assets to this module
