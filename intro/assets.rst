@@ -14,9 +14,9 @@ For example, we have here TestModule.module:
 .. note::
 
     <ModuleDefinition
-        ModuleId="TestModule"\n
-        VersionId="1"\n
-        Description="A test module"\n
+|        ModuleId="TestModule"
+|        VersionId="1"
+|        Description="A test module"
         ScriptFile="TestModule.cs"
         CreateFunction="create"
         DestroyFunction="destroy"
