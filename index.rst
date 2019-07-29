@@ -26,6 +26,7 @@ The documentation is divided into multiple sections, each of which contains info
    intro/features
    intro/toolbox
    intro/webpub
+   intro/assets
     
 .. _setup-index:
 
