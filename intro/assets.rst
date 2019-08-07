@@ -36,3 +36,24 @@ The primary parameters to focus on would be:
   * DestroyFunction: Function called in companion script file upon module being destroyed
   * Group: What group this module is part of. Largely utilized for selectively loading sets of modules like 'Core', 'Game' or 'Tools'
   * DeclaredAssets: Subelement that defines the file extension to automatically parse upon load to register assets to this module
+
+Assets
+------------
+Assets are a system by which content can be registered into a database for easy loading, utilization, and referencing.
+This is done via the use of Asset Definitions, which is a type of metadata. When modules are loaded, they scan
+their respective directory and find any asset metadata files within and register them with the Asset Database. This enables them
+to be easily referenced via the paradigm of <ModuleID>:<AssetID>. If referenced in this way, the engine will automatically find, reference
+and load the asset, handling the file paths and resource management automatically. Different asset types have different Asset Definitions,
+but they largely follow a similar structure:
+
+.. code-block:: xml
+
+<LevelAsset
+    canSave="true"
+    canSaveDynamicFields="true"
+    AssetName="TestLevel"
+    LevelFile="TestLevel.mis"
+    LevelName="Test Level"
+    LevelDescription="A simple test level."
+    VersionId="1" />
+
