@@ -39,7 +39,10 @@ The primary parameters to focus on would be:
 
 Assets
 ------------
-Assets are a system by which content can be registered into a database for easy loading, utilization, and referencing.
+An 'Asset' is any specific chunk of content. This can be a singular file, such as an image, or multiple related files together,
+like a GUI having a gui file and script file, or a level having the level script file, decal cache, postFX settings, forest object cache, etc.
+
+The Assets system is a system by which said content can be registered into a database for easy loading, utilization, and referencing.
 This is done via the use of Asset Definitions, which is a type of metadata. When modules are loaded, they scan
 their respective directory and find any asset metadata files within and register them with the Asset Database. This enables them
 to be easily referenced via the paradigm of <ModuleName>:<AssetName>. If referenced in this way, the engine will automatically find, reference
